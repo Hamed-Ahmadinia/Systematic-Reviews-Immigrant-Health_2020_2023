@@ -12,7 +12,7 @@ Contributing
 While this repository primarily hosts my (Hamed Ahmadinia's) published or working papers, contributions in the form of discussions, suggestions, or additional resources are welcome. Please feel free to open an issue or a pull request.
 
 Contact
-For any queries or collaborations, please contact me at hamed.ahmadinia@abo.fi.
+For any queries or collaborations, please contact me at hamed.ahmadinia@aol.com.
 
 Citation
 If you use the data or findings from this repository in your research or publication, please cite the relevant papers or the repository as follows:
