@@ -33,12 +33,9 @@ For any queries or collaborations, please contact me at [hamed.ahmadinia@aol.com
 
 If you use the data or findings from this repository in your research or publication, please cite the relevant papers or the repository as follows:
 
-**1. Ahmadinia, H. (2022).**  
-_A Review of Health Beliefs and Their Influence on Asylum Seekers and Refugees’ Health-Seeking Behavior._ In: Well-Being in the Information Society: When the Mind Breaks. WIS 2022. Communications in Computer and Information Science, vol 1626. Springer, Cham. [https://doi.org/10.1007/978-3-031-14832-3_11](https://doi.org/10.1007/978-3-031-14832-3_11)
+**1. Ahmadinia, H. (2022).** A Review of Health Beliefs and Their Influence on Asylum Seekers and Refugees’ Health-Seeking Behavior._ In: Well-Being in the Information Society: When the Mind Breaks. WIS 2022. Communications in Computer and Information Science, vol 1626. Springer, Cham. [https://doi.org/10.1007/978-3-031-14832-3_11](https://doi.org/10.1007/978-3-031-14832-3_11)
 
-**2. Ahmadinia, H., Eriksson-Backa, K., & Nikou, S. (2021).**  
-_Health-seeking behaviours of immigrants, asylum seekers and refugees in Europe: a systematic review of peer-reviewed articles._ Journal of Documentation, 78(7), 18-41. [https://doi.org/10.1108/JD-10-2020-0168](https://doi.org/10.1108/JD-10-2020-0168)
+**2. Ahmadinia, H., Eriksson-Backa, K., & Nikou, S. (2021).** Health-seeking behaviours of immigrants, asylum seekers and refugees in Europe: a systematic review of peer-reviewed articles._ Journal of Documentation, 78(7), 18-41. [https://doi.org/10.1108/JD-10-2020-0168](https://doi.org/10.1108/JD-10-2020-0168)
 
-**3. Ahmadinia, H., & Eriksson-Backa, K., (2024).**  
-_Factors influencing health-seeking behaviours of asylum seekers, refugees, and undocumented immigrants – A systematic review of peer-reviewed articles_, accepted for publishing at Nordic Journal of Library and Information Studies.
+**3. Ahmadinia, H., & Eriksson-Backa, K., (2024).** Factors influencing health-seeking behaviours of asylum seekers, refugees, and undocumented immigrants – A systematic review of peer-reviewed articles_, accepted for publishing at Nordic Journal of Library and Information Studies.
 
