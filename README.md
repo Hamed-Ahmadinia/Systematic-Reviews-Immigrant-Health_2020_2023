@@ -37,5 +37,5 @@ If you use the data or findings from this repository in your research or publica
 
 **2. Ahmadinia, H., Eriksson-Backa, K., & Nikou, S. (2021).** Health-seeking behaviours of immigrants, asylum seekers and refugees in Europe: a systematic review of peer-reviewed articles. Journal of Documentation, 78(7), 18-41. [https://doi.org/10.1108/JD-10-2020-0168](https://doi.org/10.1108/JD-10-2020-0168)
 
-**3. Ahmadinia, H., & Eriksson-Backa, K., (2024).** Factors influencing health-seeking behaviours of asylum seekers, refugees, and undocumented immigrants – A systematic review of peer-reviewed articles, accepted for publishing at Nordic Journal of Library and Information Studies.
+**3. Ahmadinia, H., & Eriksson-Backa, K., (2025).** Factors influencing health-seeking behaviours of asylum seekers, refugees, and undocumented immigrants – A systematic review of peer-reviewed articles, Nordic Journal of Library and Information Studies, 5(1), 1-28. [https://doi.org/10.7146/njlis.v5i1.138884]
 
