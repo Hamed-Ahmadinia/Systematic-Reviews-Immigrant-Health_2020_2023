@@ -39,3 +39,4 @@ If you use the data or findings from this repository in your research or publica
 
 **3. Ahmadinia, H., & Eriksson-Backa, K., (2025).** Factors influencing health-seeking behaviours of asylum seekers, refugees, and undocumented immigrants – A systematic review of peer-reviewed articles, Nordic Journal of Library and Information Studies, 5(1), 1-28. [https://doi.org/10.7146/njlis.v5i1.138884]
 
+© 2022-2025 Hamed Ahmadinia /  CC BY-NC 4.0
